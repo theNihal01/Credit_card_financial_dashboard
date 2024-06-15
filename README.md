@@ -1,2 +1,2 @@
 # Credit_card_financial_dashboard
-Power BI Dashboard
+– I developed an interactive financial dashboard for transaction and customer data, integrating data from Excel, MySQL, and Power BI. Starting with CSV data from Excel, I meticulously cleaned and ensured its accuracy before importing it into a MySQL database. Using Power BI, I connected to the database and executed DAX queries. This dashboard provided real-time insights with stakeholders based on dashboard findings to support decision-making processes. – Excel, MySQL, Power BI
